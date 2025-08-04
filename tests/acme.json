@@ -1,0 +1,7 @@
+{
+    "supplier": "Acme Corp",
+    "price_per_unit": 305.00,
+    "lead_time_days": 10,
+    "warranty_years": 3
+  }
+  
