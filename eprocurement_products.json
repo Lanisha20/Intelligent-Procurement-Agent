@@ -1,0 +1,902 @@
+[
+  {
+    "product_id": "P0001",
+    "name": "Product 1",
+    "category": "Cleaning",
+    "unit_of_measure": "Each",
+    "unit_price": 17.38,
+    "supplier": "Initech",
+    "lead_time_days": 16
+  },
+  {
+    "product_id": "P0002",
+    "name": "Product 2",
+    "category": "IT Equipment",
+    "unit_of_measure": "Pack",
+    "unit_price": 369.55,
+    "supplier": "Hooli Procurement",
+    "lead_time_days": 35
+  },
+  {
+    "product_id": "P0003",
+    "name": "Product 3",
+    "category": "Office Supplies",
+    "unit_of_measure": "Liters",
+    "unit_price": 213.85,
+    "supplier": "Acme Corp",
+    "lead_time_days": 6
+  },
+  {
+    "product_id": "P0004",
+    "name": "Product 4",
+    "category": "IT Equipment",
+    "unit_of_measure": "Pack",
+    "unit_price": 255.15,
+    "supplier": "Acme Corp",
+    "lead_time_days": 36
+  },
+  {
+    "product_id": "P0005",
+    "name": "Product 5",
+    "category": "IT Equipment",
+    "unit_of_measure": "Meter",
+    "unit_price": 326.69,
+    "supplier": "Soylent Corp",
+    "lead_time_days": 27
+  },
+  {
+    "product_id": "P0006",
+    "name": "Product 6",
+    "category": "IT Equipment",
+    "unit_of_measure": "Kg",
+    "unit_price": 296.69,
+    "supplier": "Stark Industries",
+    "lead_time_days": 1
+  },
+  {
+    "product_id": "P0007",
+    "name": "Product 7",
+    "category": "Electrical",
+    "unit_of_measure": "Pack",
+    "unit_price": 350.58,
+    "supplier": "Initech",
+    "lead_time_days": 18
+  },
+  {
+    "product_id": "P0008",
+    "name": "Product 8",
+    "category": "IT Equipment",
+    "unit_of_measure": "Pack",
+    "unit_price": 478.82,
+    "supplier": "Initech",
+    "lead_time_days": 7
+  },
+  {
+    "product_id": "P0009",
+    "name": "Product 9",
+    "category": "Office Supplies",
+    "unit_of_measure": "Kg",
+    "unit_price": 52.87,
+    "supplier": "Stark Industries",
+    "lead_time_days": 23
+  },
+  {
+    "product_id": "P0010",
+    "name": "Product 10",
+    "category": "Safety",
+    "unit_of_measure": "Box",
+    "unit_price": 404.53,
+    "supplier": "Hooli Procurement",
+    "lead_time_days": 30
+  },
+  {
+    "product_id": "P0011",
+    "name": "Product 11",
+    "category": "Safety",
+    "unit_of_measure": "Each",
+    "unit_price": 486.69,
+    "supplier": "Umbrella Supplies",
+    "lead_time_days": 6
+  },
+  {
+    "product_id": "P0012",
+    "name": "Product 12",
+    "category": "Safety",
+    "unit_of_measure": "Box",
+    "unit_price": 415.56,
+    "supplier": "Soylent Corp",
+    "lead_time_days": 24
+  },
+  {
+    "product_id": "P0013",
+    "name": "Product 13",
+    "category": "Safety",
+    "unit_of_measure": "Pack",
+    "unit_price": 353.76,
+    "supplier": "Acme Corp",
+    "lead_time_days": 43
+  },
+  {
+    "product_id": "P0014",
+    "name": "Product 14",
+    "category": "IT Equipment",
+    "unit_of_measure": "Box",
+    "unit_price": 492.68,
+    "supplier": "Stark Industries",
+    "lead_time_days": 15
+  },
+  {
+    "product_id": "P0015",
+    "name": "Product 15",
+    "category": "Electrical",
+    "unit_of_measure": "Each",
+    "unit_price": 193.16,
+    "supplier": "Umbrella Supplies",
+    "lead_time_days": 41
+  },
+  {
+    "product_id": "P0016",
+    "name": "Product 16",
+    "category": "Electrical",
+    "unit_of_measure": "Box",
+    "unit_price": 85.51,
+    "supplier": "Initech",
+    "lead_time_days": 14
+  },
+  {
+    "product_id": "P0017",
+    "name": "Product 17",
+    "category": "Cleaning",
+    "unit_of_measure": "Box",
+    "unit_price": 352.4,
+    "supplier": "Hooli Procurement",
+    "lead_time_days": 42
+  },
+  {
+    "product_id": "P0018",
+    "name": "Product 18",
+    "category": "Office Supplies",
+    "unit_of_measure": "Liters",
+    "unit_price": 319.31,
+    "supplier": "Soylent Corp",
+    "lead_time_days": 16
+  },
+  {
+    "product_id": "P0019",
+    "name": "Product 19",
+    "category": "IT Equipment",
+    "unit_of_measure": "Kg",
+    "unit_price": 192.83,
+    "supplier": "Hooli Procurement",
+    "lead_time_days": 45
+  },
+  {
+    "product_id": "P0020",
+    "name": "Product 20",
+    "category": "Safety",
+    "unit_of_measure": "Pack",
+    "unit_price": 343.88,
+    "supplier": "Stark Industries",
+    "lead_time_days": 4
+  },
+  {
+    "product_id": "P0021",
+    "name": "Product 21",
+    "category": "IT Equipment",
+    "unit_of_measure": "Each",
+    "unit_price": 403.5,
+    "supplier": "Umbrella Supplies",
+    "lead_time_days": 18
+  },
+  {
+    "product_id": "P0022",
+    "name": "Product 22",
+    "category": "Office Supplies",
+    "unit_of_measure": "Pack",
+    "unit_price": 457.0,
+    "supplier": "Soylent Corp",
+    "lead_time_days": 21
+  },
+  {
+    "product_id": "P0023",
+    "name": "Product 23",
+    "category": "IT Equipment",
+    "unit_of_measure": "Meter",
+    "unit_price": 252.12,
+    "supplier": "Hooli Procurement",
+    "lead_time_days": 30
+  },
+  {
+    "product_id": "P0024",
+    "name": "Product 24",
+    "category": "IT Equipment",
+    "unit_of_measure": "Box",
+    "unit_price": 74.12,
+    "supplier": "Hooli Procurement",
+    "lead_time_days": 36
+  },
+  {
+    "product_id": "P0025",
+    "name": "Product 25",
+    "category": "Safety",
+    "unit_of_measure": "Box",
+    "unit_price": 374.77,
+    "supplier": "Umbrella Supplies",
+    "lead_time_days": 38
+  },
+  {
+    "product_id": "P0026",
+    "name": "Product 26",
+    "category": "Industrial",
+    "unit_of_measure": "Box",
+    "unit_price": 113.56,
+    "supplier": "Globex Inc",
+    "lead_time_days": 33
+  },
+  {
+    "product_id": "P0027",
+    "name": "Product 27",
+    "category": "Industrial",
+    "unit_of_measure": "Each",
+    "unit_price": 379.11,
+    "supplier": "Stark Industries",
+    "lead_time_days": 8
+  },
+  {
+    "product_id": "P0028",
+    "name": "Product 28",
+    "category": "IT Equipment",
+    "unit_of_measure": "Meter",
+    "unit_price": 84.19,
+    "supplier": "Hooli Procurement",
+    "lead_time_days": 28
+  },
+  {
+    "product_id": "P0029",
+    "name": "Product 29",
+    "category": "Safety",
+    "unit_of_measure": "Each",
+    "unit_price": 195.46,
+    "supplier": "Soylent Corp",
+    "lead_time_days": 30
+  },
+  {
+    "product_id": "P0030",
+    "name": "Product 30",
+    "category": "Safety",
+    "unit_of_measure": "Box",
+    "unit_price": 485.68,
+    "supplier": "Stark Industries",
+    "lead_time_days": 1
+  },
+  {
+    "product_id": "P0031",
+    "name": "Product 31",
+    "category": "Cleaning",
+    "unit_of_measure": "Meter",
+    "unit_price": 61.7,
+    "supplier": "Soylent Corp",
+    "lead_time_days": 18
+  },
+  {
+    "product_id": "P0032",
+    "name": "Product 32",
+    "category": "Electrical",
+    "unit_of_measure": "Meter",
+    "unit_price": 173.39,
+    "supplier": "Initech",
+    "lead_time_days": 28
+  },
+  {
+    "product_id": "P0033",
+    "name": "Product 33",
+    "category": "IT Equipment",
+    "unit_of_measure": "Kg",
+    "unit_price": 6.61,
+    "supplier": "Hooli Procurement",
+    "lead_time_days": 17
+  },
+  {
+    "product_id": "P0034",
+    "name": "Product 34",
+    "category": "Safety",
+    "unit_of_measure": "Pack",
+    "unit_price": 256.3,
+    "supplier": "Acme Corp",
+    "lead_time_days": 41
+  },
+  {
+    "product_id": "P0035",
+    "name": "Product 35",
+    "category": "Furniture",
+    "unit_of_measure": "Meter",
+    "unit_price": 256.29,
+    "supplier": "Globex Inc",
+    "lead_time_days": 10
+  },
+  {
+    "product_id": "P0036",
+    "name": "Product 36",
+    "category": "Furniture",
+    "unit_of_measure": "Pack",
+    "unit_price": 271.99,
+    "supplier": "Stark Industries",
+    "lead_time_days": 34
+  },
+  {
+    "product_id": "P0037",
+    "name": "Product 37",
+    "category": "Office Supplies",
+    "unit_of_measure": "Liters",
+    "unit_price": 165.46,
+    "supplier": "Acme Corp",
+    "lead_time_days": 8
+  },
+  {
+    "product_id": "P0038",
+    "name": "Product 38",
+    "category": "Furniture",
+    "unit_of_measure": "Box",
+    "unit_price": 123.53,
+    "supplier": "Globex Inc",
+    "lead_time_days": 37
+  },
+  {
+    "product_id": "P0039",
+    "name": "Product 39",
+    "category": "Office Supplies",
+    "unit_of_measure": "Each",
+    "unit_price": 367.29,
+    "supplier": "Stark Industries",
+    "lead_time_days": 5
+  },
+  {
+    "product_id": "P0040",
+    "name": "Product 40",
+    "category": "Electrical",
+    "unit_of_measure": "Liters",
+    "unit_price": 384.09,
+    "supplier": "Globex Inc",
+    "lead_time_days": 43
+  },
+  {
+    "product_id": "P0041",
+    "name": "Product 41",
+    "category": "Industrial",
+    "unit_of_measure": "Liters",
+    "unit_price": 86.74,
+    "supplier": "Soylent Corp",
+    "lead_time_days": 39
+  },
+  {
+    "product_id": "P0042",
+    "name": "Product 42",
+    "category": "Industrial",
+    "unit_of_measure": "Pack",
+    "unit_price": 464.81,
+    "supplier": "Stark Industries",
+    "lead_time_days": 45
+  },
+  {
+    "product_id": "P0043",
+    "name": "Product 43",
+    "category": "IT Equipment",
+    "unit_of_measure": "Meter",
+    "unit_price": 159.3,
+    "supplier": "Hooli Procurement",
+    "lead_time_days": 42
+  },
+  {
+    "product_id": "P0044",
+    "name": "Product 44",
+    "category": "Furniture",
+    "unit_of_measure": "Kg",
+    "unit_price": 450.31,
+    "supplier": "Umbrella Supplies",
+    "lead_time_days": 8
+  },
+  {
+    "product_id": "P0045",
+    "name": "Product 45",
+    "category": "IT Equipment",
+    "unit_of_measure": "Pack",
+    "unit_price": 36.69,
+    "supplier": "Acme Corp",
+    "lead_time_days": 38
+  },
+  {
+    "product_id": "P0046",
+    "name": "Product 46",
+    "category": "Safety",
+    "unit_of_measure": "Pack",
+    "unit_price": 296.28,
+    "supplier": "Acme Corp",
+    "lead_time_days": 5
+  },
+  {
+    "product_id": "P0047",
+    "name": "Product 47",
+    "category": "Cleaning",
+    "unit_of_measure": "Meter",
+    "unit_price": 34.14,
+    "supplier": "Acme Corp",
+    "lead_time_days": 3
+  },
+  {
+    "product_id": "P0048",
+    "name": "Product 48",
+    "category": "Electrical",
+    "unit_of_measure": "Box",
+    "unit_price": 40.07,
+    "supplier": "Globex Inc",
+    "lead_time_days": 18
+  },
+  {
+    "product_id": "P0049",
+    "name": "Product 49",
+    "category": "Cleaning",
+    "unit_of_measure": "Kg",
+    "unit_price": 111.05,
+    "supplier": "Globex Inc",
+    "lead_time_days": 37
+  },
+  {
+    "product_id": "P0050",
+    "name": "Product 50",
+    "category": "Safety",
+    "unit_of_measure": "Kg",
+    "unit_price": 125.28,
+    "supplier": "Umbrella Supplies",
+    "lead_time_days": 27
+  },
+  {
+    "product_id": "P0051",
+    "name": "Product 51",
+    "category": "IT Equipment",
+    "unit_of_measure": "Each",
+    "unit_price": 52.98,
+    "supplier": "Umbrella Supplies",
+    "lead_time_days": 23
+  },
+  {
+    "product_id": "P0052",
+    "name": "Product 52",
+    "category": "Industrial",
+    "unit_of_measure": "Kg",
+    "unit_price": 236.18,
+    "supplier": "Hooli Procurement",
+    "lead_time_days": 4
+  },
+  {
+    "product_id": "P0053",
+    "name": "Product 53",
+    "category": "Cleaning",
+    "unit_of_measure": "Meter",
+    "unit_price": 492.16,
+    "supplier": "Acme Corp",
+    "lead_time_days": 4
+  },
+  {
+    "product_id": "P0054",
+    "name": "Product 54",
+    "category": "Industrial",
+    "unit_of_measure": "Meter",
+    "unit_price": 172.95,
+    "supplier": "Stark Industries",
+    "lead_time_days": 7
+  },
+  {
+    "product_id": "P0055",
+    "name": "Product 55",
+    "category": "IT Equipment",
+    "unit_of_measure": "Pack",
+    "unit_price": 99.15,
+    "supplier": "Umbrella Supplies",
+    "lead_time_days": 9
+  },
+  {
+    "product_id": "P0056",
+    "name": "Product 56",
+    "category": "Industrial",
+    "unit_of_measure": "Pack",
+    "unit_price": 142.88,
+    "supplier": "Globex Inc",
+    "lead_time_days": 5
+  },
+  {
+    "product_id": "P0057",
+    "name": "Product 57",
+    "category": "Industrial",
+    "unit_of_measure": "Liters",
+    "unit_price": 53.46,
+    "supplier": "Hooli Procurement",
+    "lead_time_days": 35
+  },
+  {
+    "product_id": "P0058",
+    "name": "Product 58",
+    "category": "Electrical",
+    "unit_of_measure": "Each",
+    "unit_price": 484.65,
+    "supplier": "Stark Industries",
+    "lead_time_days": 16
+  },
+  {
+    "product_id": "P0059",
+    "name": "Product 59",
+    "category": "IT Equipment",
+    "unit_of_measure": "Kg",
+    "unit_price": 245.39,
+    "supplier": "Globex Inc",
+    "lead_time_days": 26
+  },
+  {
+    "product_id": "P0060",
+    "name": "Product 60",
+    "category": "Office Supplies",
+    "unit_of_measure": "Pack",
+    "unit_price": 192.59,
+    "supplier": "Umbrella Supplies",
+    "lead_time_days": 17
+  },
+  {
+    "product_id": "P0061",
+    "name": "Product 61",
+    "category": "Electrical",
+    "unit_of_measure": "Kg",
+    "unit_price": 146.2,
+    "supplier": "Hooli Procurement",
+    "lead_time_days": 36
+  },
+  {
+    "product_id": "P0062",
+    "name": "Product 62",
+    "category": "Cleaning",
+    "unit_of_measure": "Meter",
+    "unit_price": 245.9,
+    "supplier": "Globex Inc",
+    "lead_time_days": 19
+  },
+  {
+    "product_id": "P0063",
+    "name": "Product 63",
+    "category": "IT Equipment",
+    "unit_of_measure": "Each",
+    "unit_price": 291.69,
+    "supplier": "Soylent Corp",
+    "lead_time_days": 4
+  },
+  {
+    "product_id": "P0064",
+    "name": "Product 64",
+    "category": "Cleaning",
+    "unit_of_measure": "Box",
+    "unit_price": 33.3,
+    "supplier": "Soylent Corp",
+    "lead_time_days": 31
+  },
+  {
+    "product_id": "P0065",
+    "name": "Product 65",
+    "category": "Safety",
+    "unit_of_measure": "Liters",
+    "unit_price": 82.93,
+    "supplier": "Soylent Corp",
+    "lead_time_days": 6
+  },
+  {
+    "product_id": "P0066",
+    "name": "Product 66",
+    "category": "Electrical",
+    "unit_of_measure": "Pack",
+    "unit_price": 38.92,
+    "supplier": "Acme Corp",
+    "lead_time_days": 44
+  },
+  {
+    "product_id": "P0067",
+    "name": "Product 67",
+    "category": "Electrical",
+    "unit_of_measure": "Pack",
+    "unit_price": 204.87,
+    "supplier": "Soylent Corp",
+    "lead_time_days": 16
+  },
+  {
+    "product_id": "P0068",
+    "name": "Product 68",
+    "category": "Safety",
+    "unit_of_measure": "Liters",
+    "unit_price": 24.67,
+    "supplier": "Acme Corp",
+    "lead_time_days": 27
+  },
+  {
+    "product_id": "P0069",
+    "name": "Product 69",
+    "category": "Cleaning",
+    "unit_of_measure": "Liters",
+    "unit_price": 284.79,
+    "supplier": "Initech",
+    "lead_time_days": 17
+  },
+  {
+    "product_id": "P0070",
+    "name": "Product 70",
+    "category": "IT Equipment",
+    "unit_of_measure": "Meter",
+    "unit_price": 359.51,
+    "supplier": "Globex Inc",
+    "lead_time_days": 17
+  },
+  {
+    "product_id": "P0071",
+    "name": "Product 71",
+    "category": "Industrial",
+    "unit_of_measure": "Pack",
+    "unit_price": 337.49,
+    "supplier": "Initech",
+    "lead_time_days": 30
+  },
+  {
+    "product_id": "P0072",
+    "name": "Product 72",
+    "category": "Furniture",
+    "unit_of_measure": "Each",
+    "unit_price": 9.61,
+    "supplier": "Soylent Corp",
+    "lead_time_days": 37
+  },
+  {
+    "product_id": "P0073",
+    "name": "Product 73",
+    "category": "Office Supplies",
+    "unit_of_measure": "Each",
+    "unit_price": 271.13,
+    "supplier": "Soylent Corp",
+    "lead_time_days": 17
+  },
+  {
+    "product_id": "P0074",
+    "name": "Product 74",
+    "category": "IT Equipment",
+    "unit_of_measure": "Box",
+    "unit_price": 441.03,
+    "supplier": "Globex Inc",
+    "lead_time_days": 24
+  },
+  {
+    "product_id": "P0075",
+    "name": "Product 75",
+    "category": "Furniture",
+    "unit_of_measure": "Pack",
+    "unit_price": 221.9,
+    "supplier": "Soylent Corp",
+    "lead_time_days": 20
+  },
+  {
+    "product_id": "P0076",
+    "name": "Product 76",
+    "category": "Safety",
+    "unit_of_measure": "Meter",
+    "unit_price": 266.83,
+    "supplier": "Hooli Procurement",
+    "lead_time_days": 36
+  },
+  {
+    "product_id": "P0077",
+    "name": "Product 77",
+    "category": "Furniture",
+    "unit_of_measure": "Meter",
+    "unit_price": 56.28,
+    "supplier": "Globex Inc",
+    "lead_time_days": 17
+  },
+  {
+    "product_id": "P0078",
+    "name": "Product 78",
+    "category": "Office Supplies",
+    "unit_of_measure": "Each",
+    "unit_price": 372.5,
+    "supplier": "Globex Inc",
+    "lead_time_days": 18
+  },
+  {
+    "product_id": "P0079",
+    "name": "Product 79",
+    "category": "Furniture",
+    "unit_of_measure": "Liters",
+    "unit_price": 109.26,
+    "supplier": "Initech",
+    "lead_time_days": 14
+  },
+  {
+    "product_id": "P0080",
+    "name": "Product 80",
+    "category": "Cleaning",
+    "unit_of_measure": "Meter",
+    "unit_price": 427.19,
+    "supplier": "Soylent Corp",
+    "lead_time_days": 32
+  },
+  {
+    "product_id": "P0081",
+    "name": "Product 81",
+    "category": "Furniture",
+    "unit_of_measure": "Each",
+    "unit_price": 50.69,
+    "supplier": "Umbrella Supplies",
+    "lead_time_days": 18
+  },
+  {
+    "product_id": "P0082",
+    "name": "Product 82",
+    "category": "Office Supplies",
+    "unit_of_measure": "Each",
+    "unit_price": 170.11,
+    "supplier": "Globex Inc",
+    "lead_time_days": 41
+  },
+  {
+    "product_id": "P0083",
+    "name": "Product 83",
+    "category": "Furniture",
+    "unit_of_measure": "Pack",
+    "unit_price": 371.91,
+    "supplier": "Soylent Corp",
+    "lead_time_days": 28
+  },
+  {
+    "product_id": "P0084",
+    "name": "Product 84",
+    "category": "Safety",
+    "unit_of_measure": "Each",
+    "unit_price": 60.38,
+    "supplier": "Hooli Procurement",
+    "lead_time_days": 10
+  },
+  {
+    "product_id": "P0085",
+    "name": "Product 85",
+    "category": "Safety",
+    "unit_of_measure": "Each",
+    "unit_price": 418.12,
+    "supplier": "Soylent Corp",
+    "lead_time_days": 36
+  },
+  {
+    "product_id": "P0086",
+    "name": "Product 86",
+    "category": "IT Equipment",
+    "unit_of_measure": "Kg",
+    "unit_price": 68.09,
+    "supplier": "Initech",
+    "lead_time_days": 24
+  },
+  {
+    "product_id": "P0087",
+    "name": "Product 87",
+    "category": "Electrical",
+    "unit_of_measure": "Each",
+    "unit_price": 449.97,
+    "supplier": "Globex Inc",
+    "lead_time_days": 44
+  },
+  {
+    "product_id": "P0088",
+    "name": "Product 88",
+    "category": "IT Equipment",
+    "unit_of_measure": "Meter",
+    "unit_price": 55.88,
+    "supplier": "Stark Industries",
+    "lead_time_days": 36
+  },
+  {
+    "product_id": "P0089",
+    "name": "Product 89",
+    "category": "Electrical",
+    "unit_of_measure": "Kg",
+    "unit_price": 487.05,
+    "supplier": "Hooli Procurement",
+    "lead_time_days": 10
+  },
+  {
+    "product_id": "P0090",
+    "name": "Product 90",
+    "category": "IT Equipment",
+    "unit_of_measure": "Pack",
+    "unit_price": 488.22,
+    "supplier": "Stark Industries",
+    "lead_time_days": 12
+  },
+  {
+    "product_id": "P0091",
+    "name": "Product 91",
+    "category": "Industrial",
+    "unit_of_measure": "Each",
+    "unit_price": 93.78,
+    "supplier": "Initech",
+    "lead_time_days": 27
+  },
+  {
+    "product_id": "P0092",
+    "name": "Product 92",
+    "category": "Electrical",
+    "unit_of_measure": "Meter",
+    "unit_price": 432.71,
+    "supplier": "Stark Industries",
+    "lead_time_days": 16
+  },
+  {
+    "product_id": "P0093",
+    "name": "Product 93",
+    "category": "Furniture",
+    "unit_of_measure": "Pack",
+    "unit_price": 394.75,
+    "supplier": "Acme Corp",
+    "lead_time_days": 25
+  },
+  {
+    "product_id": "P0094",
+    "name": "Product 94",
+    "category": "Electrical",
+    "unit_of_measure": "Each",
+    "unit_price": 430.0,
+    "supplier": "Globex Inc",
+    "lead_time_days": 13
+  },
+  {
+    "product_id": "P0095",
+    "name": "Product 95",
+    "category": "Electrical",
+    "unit_of_measure": "Kg",
+    "unit_price": 178.08,
+    "supplier": "Stark Industries",
+    "lead_time_days": 15
+  },
+  {
+    "product_id": "P0096",
+    "name": "Product 96",
+    "category": "IT Equipment",
+    "unit_of_measure": "Each",
+    "unit_price": 331.72,
+    "supplier": "Umbrella Supplies",
+    "lead_time_days": 22
+  },
+  {
+    "product_id": "P0097",
+    "name": "Product 97",
+    "category": "Furniture",
+    "unit_of_measure": "Each",
+    "unit_price": 483.61,
+    "supplier": "Initech",
+    "lead_time_days": 23
+  },
+  {
+    "product_id": "P0098",
+    "name": "Product 98",
+    "category": "Cleaning",
+    "unit_of_measure": "Liters",
+    "unit_price": 202.84,
+    "supplier": "Stark Industries",
+    "lead_time_days": 35
+  },
+  {
+    "product_id": "P0099",
+    "name": "Product 99",
+    "category": "Furniture",
+    "unit_of_measure": "Each",
+    "unit_price": 62.09,
+    "supplier": "Initech",
+    "lead_time_days": 12
+  },
+  {
+    "product_id": "P0100",
+    "name": "Product 100",
+    "category": "Safety",
+    "unit_of_measure": "Box",
+    "unit_price": 23.94,
+    "supplier": "Soylent Corp",
+    "lead_time_days": 28
+  }
+]
